@@ -1,0 +1,12 @@
+In this project I have divided my project into 4 section 
+index.html file
+welcome.html file
+Login.java
+Logout.java
+
+in the index.html file I am creating the form in which I will put EmailId and Password and the particular data it will pass
+in Login.java file, there it will get matched with the hardcoded data which I have provided once it confirm that the
+particular data is correct it will go on welcome.html file, and there it will show the Successful login. 
+
+And in that particular html page I will provide the logout java file link which will show that you are successfully once
+we click on the Logout button.
